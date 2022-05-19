@@ -1,0 +1,9 @@
+.header {
+    background: url(https://estaticos-cdn.sport.es/clip/8b01990f-0244-46a0-8fa9-0afeea2c2b81_alta-libre-aspect-ratio_default_0.jpg);
+    background-size: cover;
+    min-height: 100vh;
+  }
+
+.header .navbar {
+    background-color: transparent !important;
+  }
